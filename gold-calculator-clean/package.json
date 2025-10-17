@@ -1,0 +1,11 @@
+{
+  "name": "gold-calculator-clean",
+  "version": "1.0.0",
+  "description": "Static gold calculator site",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
